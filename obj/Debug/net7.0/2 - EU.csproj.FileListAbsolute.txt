@@ -1,0 +1,15 @@
+C:\Users\plaud\Desktop\C#\2 - EU\bin\Debug\net7.0\2 - EU.exe
+C:\Users\plaud\Desktop\C#\2 - EU\bin\Debug\net7.0\2 - EU.deps.json
+C:\Users\plaud\Desktop\C#\2 - EU\bin\Debug\net7.0\2 - EU.runtimeconfig.json
+C:\Users\plaud\Desktop\C#\2 - EU\bin\Debug\net7.0\2 - EU.dll
+C:\Users\plaud\Desktop\C#\2 - EU\bin\Debug\net7.0\2 - EU.pdb
+C:\Users\plaud\Desktop\C#\2 - EU\obj\Debug\net7.0\2 - EU.csproj.AssemblyReference.cache
+C:\Users\plaud\Desktop\C#\2 - EU\obj\Debug\net7.0\2 - EU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plaud\Desktop\C#\2 - EU\obj\Debug\net7.0\2 - EU.AssemblyInfoInputs.cache
+C:\Users\plaud\Desktop\C#\2 - EU\obj\Debug\net7.0\2 - EU.AssemblyInfo.cs
+C:\Users\plaud\Desktop\C#\2 - EU\obj\Debug\net7.0\2 - EU.csproj.CoreCompileInputs.cache
+C:\Users\plaud\Desktop\C#\2 - EU\obj\Debug\net7.0\2 - EU.dll
+C:\Users\plaud\Desktop\C#\2 - EU\obj\Debug\net7.0\refint\2 - EU.dll
+C:\Users\plaud\Desktop\C#\2 - EU\obj\Debug\net7.0\2 - EU.pdb
+C:\Users\plaud\Desktop\C#\2 - EU\obj\Debug\net7.0\2 - EU.genruntimeconfig.cache
+C:\Users\plaud\Desktop\C#\2 - EU\obj\Debug\net7.0\ref\2 - EU.dll
